@@ -1,0 +1,32 @@
+{
+  "name": "rails-assets-adminlte",
+  "downloads": null,
+  "version": "2.3.6",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "Admin dashboard and control panel template",
+  
+  "licenses": "MIT",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "http://almsaeedstudio.com/",
+  "gem_uri": null,
+  "homepage_uri": "http://almsaeedstudio.com/",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "http://almsaeedstudio.com/",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
